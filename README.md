@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV13xYCeDEUx/](https://www.bilibili.com/video/BV13xYCeDEUx/)**
 
 **毕业设计所有选题地址：
-[https://github.com/codegiteepro/allProject](https://github.com/codegiteepro/allProject)**
+[https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
 ## 基于Java+Springboot+vue的幼儿园管理系统(源代码+数据库+万字论文+ppt)159
 
